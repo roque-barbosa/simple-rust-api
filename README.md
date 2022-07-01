@@ -37,5 +37,6 @@ serde_json = "1.0.82"
 
 
 ## Runing The Server
-
-cargo watch -x run       
+```bash
+cargo watch -x run 
+```
